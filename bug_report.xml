@@ -1,2 +1,3 @@
-<item Bug1 = "the first bug">
+<item Bug1 = "the first bug"
+      Bug2 = "the second bug">
 </item>
