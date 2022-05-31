@@ -1,3 +1,4 @@
-<item Bug1 = "the first bug"
-      Bug2 = "the second bug">
-</item>
+<xml> 
+      <p>the first bug</p>
+      <p>the second bug</p>
+</xml>
