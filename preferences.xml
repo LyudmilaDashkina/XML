@@ -1,6 +1,7 @@
-<item FavoriteFilm = "Dirty Dancing"
-	FavoriteFood = "goulash"
-	FavoriteSeason = "summer"
-	TheCountryIWantToVisit = "USA">
-</item>
+<xml>
+	<p>FavoriteFilm = "Dirty Dancing"</p>
+	<p>avoriteFood = "goulash"</p>
+	<p>FavoriteSeason = "summer"</p>
+	<p>TheCountryIWantToVisit = "USA"</p>
+</xml>
 
