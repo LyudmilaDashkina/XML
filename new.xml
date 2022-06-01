@@ -1,6 +1,6 @@
-<item 	Name = "Lyudmila"
-  	Surname = "Dashkina"
-  	Age = "38"
-  	NumberOfPets = "1"
-  	DesiredSalary = "2500$">
-</item>
+<xml>
+  <p>Lyudmila Dashkina</p>
+  <p>Age = "38"</p>
+  <p>NumberOfPets = "1"</p>
+  <p>DesiredSalary = "2500$"></p>
+</xml>
